@@ -257,7 +257,7 @@ Micromouse/
 │
 │
 ├── docs/
-│      Micromouse_BOM 1.pdf
+│      Micromouse_BOM.pdf
 │      Micromouse_Calculations_IEEE_RAS.pdf
 │
 ├── Media/
